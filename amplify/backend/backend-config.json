@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "scheduler16f9c63c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
